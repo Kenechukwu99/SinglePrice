@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(201, 232, 222);
+    align-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.join{
+    display: block;
+    background-color: whitesmoke;
+    width: 50%;
+    height: 180px;
+    margin-top: 90px;
+    margin-left: 25%;
+}
+
+.join h3{
+    color: rgb(21, 165, 165);
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.para1{
+    color: chartreuse;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.para2{
+    color: grey;
+    padding-left: 30px;
+    padding-top: 10px;
+    line-height: 1.5;
+}
+
+.main-container{
+    display: flex;
+    justify-content: flex-start;
+    background-color: whitesmoke;
+    width: 50%;
+    height: 180px;
+    margin-left: 25%;
+}
+
+.skyblue{
+    display: block;
+    background-color: rgb(80, 187, 213);
+    width: 50%;
+    height: 180px;
+    margin-left: auto;
+}
+
+.skyblue h4{
+    padding-left: 30px;
+    padding-top: 20px;
+    color: whitesmoke;
+}
+
+.skyblue p{
+   padding-left: 30px;
+    padding-top: 14px;
+    color: whitesmoke; 
+    font-size: 13px;
+}
+
+.skyblue .big{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.skyblue .full{
+    padding-top: 5px;
+}
+
+.skyblue button{
+    margin-left: 30px;
+    margin-top: 35px;
+    width: 175px;
+    height: 28px;
+    background-color: chartreuse;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+}
+
+.blue{
+    display: block;
+    background-color: rgb(28, 176, 213);
+    width: 50%;
+    height: 180px;
+}
+
+.blue h4{
+    padding-left: 30px;
+    padding-top: 20px;
+    color: whitesmoke;
+}
+
+.blue p{
+    padding-left: 30px;
+    padding-top: 14px;
+    color: whitesmoke; 
+    font-size: 11px;
+    line-height: 1.4;
+}
